@@ -71,3 +71,4 @@ FROM orders
 GROUP BY HOUR(order_time)
 ORDER BY hour;
 
+
